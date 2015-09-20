@@ -1,0 +1,7 @@
+E:\Downloads\SDK\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\ClientLibrary.dll
+E:\Downloads\SDK\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\ClientLibrary.pdb
+E:\Downloads\SDK\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Downloads\SDK\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Downloads\SDK\FaceAPI-Samples-CSharp\ClientLibrary\obj\Debug\ClientLibrary.csprojResolveAssemblyReference.cache
+E:\Downloads\SDK\FaceAPI-Samples-CSharp\ClientLibrary\obj\Debug\ClientLibrary.dll
+E:\Downloads\SDK\FaceAPI-Samples-CSharp\ClientLibrary\obj\Debug\ClientLibrary.pdb

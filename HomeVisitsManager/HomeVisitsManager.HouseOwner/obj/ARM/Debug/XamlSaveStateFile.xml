@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="e:\visual studio (source control)\home visits manager\homevisitsmanager\packages\microsoft.aspnet.signalr.client.2.2.0\lib\portable-win81+wpa81\microsoft.aspnet.signalr.client.dll" HashGuid="122fd8fc-0022-0dd0-2020-cd60e5b50849" />
+    <ReferenceAssembly PathName="e:\visual studio (source control)\home visits manager\homevisitsmanager\packages\microsoft.aspnet.signalr.client.2.2.0\lib\portable-win81+wpa81\microsoft.aspnet.signalr.client.store.dll" HashGuid="db15ee65-549a-89a1-7a28-15a9e99ac2e1" />
+    <ReferenceAssembly PathName="e:\visual studio (source control)\home visits manager\homevisitsmanager\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="e:\visual studio (source control)\home visits manager\homevisitsmanager\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="e:\visual studio (source control)\home visits manager\homevisitsmanager\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

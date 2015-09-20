@@ -1,0 +1,6 @@
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\bin\Release\ProjectOxfordClientLibrary.dll
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\bin\Release\ProjectOxfordClientLibrary.pdb
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\bin\Release\Newtonsoft.Json.dll
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\bin\Release\Newtonsoft.Json.xml
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\obj\Release\ProjectOxfordClientLibrary.dll
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\obj\Release\ProjectOxfordClientLibrary.pdb

@@ -1,0 +1,2 @@
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\HomeVisitsManager.VisitsController.csproj;arm
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\ProjectOxfordClientLibrary.csproj;neutral

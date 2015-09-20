@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ISLAM-M14X</Machine>
+    <WindowsUser>islam</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>5a523354-9af8-468a-b7ed-5c4f01b1449f</PackageIdentityName>
+    <IntermediateOutputPath>E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>AD61C112EC90C69F4EDB492DC208DD44D2A4E4513717F0A3A64D558E6C148F50</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5a523354-9af8-468a-b7ed-5c4f01b1449f_1.0.0.0_x86__mbgzfbc1mwwvm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5a523354-9af8-468a-b7ed-5c4f01b1449f_mbgzfbc1mwwvm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5a523354-9af8-468a-b7ed-5c4f01b1449f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=islam</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-12T19:49:47.369</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-08-04T01:18:56.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\entrypoint\HomeVisitsManager.VisitsController.exe">
+      <PackagePath>entrypoint\HomeVisitsManager.VisitsController.exe</PackagePath>
+      <Modified>2015-09-12T19:49:47.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\HomeVisitsManager.VisitsController.exe">
+      <PackagePath>HomeVisitsManager.VisitsController.exe</PackagePath>
+      <Modified>2015-09-12T19:49:47.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\HomeVisitsManager.VisitsController.xr.xml">
+      <PackagePath>HomeVisitsManager.VisitsController.xr.xml</PackagePath>
+      <Modified>2015-09-12T19:47:42.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2015-08-04T01:18:14.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2015-08-04T01:18:16.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2015-08-04T01:18:07.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-09-04T01:03:24.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\ProjectOxfordClientLibrary.dll">
+      <PackagePath>ProjectOxfordClientLibrary.dll</PackagePath>
+      <Modified>2015-09-12T19:46:28.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-09-12T14:56:08.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-12T19:49:46.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+      <Modified>2015-08-04T01:18:14.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2015-08-04T01:18:14.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2015-08-04T01:18:16.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2015-08-04T01:18:16.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2015-08-04T01:18:07.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2015-08-04T01:18:08.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2015-08-04T01:18:15.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+      <Modified>2015-08-04T01:18:10.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2015-08-04T01:18:15.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2015-08-04T01:18:08.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+      <Modified>2015-08-04T01:18:10.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+      <Modified>2015-08-04T01:18:08.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2015-08-04T01:18:15.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2015-08-04T01:18:08.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2015-08-04T01:18:16.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2015-08-04T01:18:16.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2015-08-04T01:18:17.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2015-08-04T01:18:17.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2015-08-04T01:18:16.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2015-08-04T01:18:17.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+      <Modified>2015-08-04T01:18:17.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2015-08-04T01:18:08.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2015-08-04T01:18:22.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+      <Modified>2015-08-04T01:18:22.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+      <Modified>2015-08-04T01:18:08.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+      <Modified>2015-08-04T01:18:08.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Private.Networking.dll">
+      <PackagePath>System.Private.Networking.dll</PackagePath>
+      <Modified>2015-08-04T01:18:08.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+      <Modified>2015-08-04T01:18:17.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2015-08-04T01:18:07.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2015-08-04T01:18:20.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+      <Modified>2015-08-04T01:18:19.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+      <Modified>2015-08-04T01:18:56.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
+      <Modified>2015-08-04T01:18:56.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
+      <Modified>2015-08-04T01:18:55.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2015-08-04T01:18:20.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2015-08-04T01:18:20.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2015-08-04T01:18:22.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+      <Modified>2015-08-04T01:18:22.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2015-08-04T01:18:22.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2015-08-04T01:18:48.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2015-08-04T01:18:30.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2015-08-04T01:18:29.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2015-08-04T01:18:22.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2015-08-04T01:18:20.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2015-08-04T01:18:10.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-08-04T01:18:14.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2015-08-04T01:18:09.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2015-08-04T01:18:22.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2015-08-04T01:18:30.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+      <Modified>2015-08-04T01:18:16.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+      <Modified>2015-08-04T01:18:15.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+      <Modified>2015-08-04T01:18:22.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2015-08-04T01:18:22.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2015-08-04T01:18:30.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2015-08-04T01:18:48.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2015-08-04T01:18:07.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+      <Modified>2015-08-04T01:18:49.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-08-04T01:18:48.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2015-08-04T01:18:31.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2015-08-04T01:18:31.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2015-08-04T01:18:49.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+      <Modified>2015-08-04T01:18:30.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2015-08-04T01:18:13.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2015-08-04T01:18:16.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio %28Source Control%29\Home visits manager\HomeVisitsManager\HomeVisitsManager.VisitsController\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2015-08-01T22:13:17.927</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23117.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23117.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23117.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

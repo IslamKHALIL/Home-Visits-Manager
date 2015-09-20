@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45+win+wpa81": {
+      "wrappedProject": "../../ProjectOxfordClientLibrary.csproj",
+      "bin": {
+        "assembly": "../../obj/{configuration}/ProjectOxfordClientLibrary.dll",
+        "pdb": "../../obj/{configuration}/ProjectOxfordClientLibrary.pdb"
+      },
+      "dependencies": {
+        "Newtonsoft.Json": "6.0.8"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\bin\Debug\ProjectOxfordClientLibrary.dll
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\bin\Debug\ProjectOxfordClientLibrary.pdb
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\obj\Debug\ProjectOxfordClientLibrary.csprojResolveAssemblyReference.cache
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\obj\Debug\ProjectOxfordClientLibrary.dll
+E:\Visual Studio (Source Control)\Home visits manager\HomeVisitsManager\ProjectOxfordClientLibrary\obj\Debug\ProjectOxfordClientLibrary.pdb
